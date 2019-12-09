@@ -1,0 +1,21 @@
+p.carousel {
+    text-shadow: 2px 2px black;
+}
+
+h3.carousel {
+    text-shadow: 3px 3px black;
+    font-size: 70px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 30px;
+}
+
+
+.carousel-caption p.carousel {
+    font-size: 30px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.footer {
+    position: relative;
+    background: #fff;
+    width: 100%;
+    min-height: 60px;
+}
+
+p.copyright {
+    font-family: 'Oxygen', sans-serif;
+    text-align: right;
+    padding: 10px 10px;
+}

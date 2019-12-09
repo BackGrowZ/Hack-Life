@@ -1,0 +1,71 @@
+body {
+    background: #343a40!important;
+    font-family: "Rajdhani", sans-serif!important;
+}
+
+#navbar {
+    margin: 0px auto; 
+    width: 90%;
+    opacity: 0.7;
+}
+
+section.container {
+    background: #fff;
+}
+
+.accroche {
+    background-image: url(img/pres.jpg);
+    background-size: cover;
+    background-position-y: 900px;
+    min-height: 800px;
+}
+
+nav{
+    font-weight: bold;
+}
+
+.main h4.title_projet {
+    margin-left: 25%;
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 20px;
+}
+
+.main h5.desc_projet {
+    margin-left: 25%;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.bloc_team {
+    padding: 50px 20%;
+}
+
+.card {
+    text-align: center;
+    width: 300px;
+    height: 320px;
+    margin-top: 20px;
+}
+
+img.card-img-top {
+    max-width:100%;
+    height:auto;
+}
+
+.block img.connaissance {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ 
+.wrapper {
+	padding: 20px;
+	text-align: center;
+}
+
+
+.display.box {
+    text-align: center; 
+    padding-top: 30px;
+}

@@ -1,0 +1,76 @@
+.Container_Presentation_Projet {
+    position: relative;
+    margin:-2% 0px 2% 2%;
+    padding: 5% 2%;
+    min-height: 600px;
+    width: 96%;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.Container_Presentation_Projet h4.title_cat {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.Container_Presentation_Projet h5.desc_cat {
+    text-align: center;
+    font-size: 30px;
+}
+
+.Container_block {
+    margin-top: 30px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.Container_block img.rond {
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 70%;
+}
+
+.col-md-4.project-section {
+    margin-top: 20px;
+    padding: 1% 1%;
+}
+
+.box-project {
+    background-image: linear-gradient( rgb(176, 184, 184),  rgba(222, 228, 228, 0.4));
+    min-height: 400px;
+    border: black;
+    border-width: 1px;
+    border-radius: 10%;
+}
+
+.cicle-project {
+    border-radius: 100%;
+    background-image: linear-gradient(#2A7D9F, #9C489D);
+    position: relative;
+    top: -40px;
+    margin:0px auto;
+    width: 100px;
+    height: 100px;
+}
+.icon-project {
+    margin: 25% 25%;
+    width: 50px;
+    height: 50px;
+}
+
+.box-project-title {
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.box-project-desc {
+    margin: auto 10%;
+}
+
+.col-xs-6.col-md-4.project{
+    padding: 1% 1%;
+}
